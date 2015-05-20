@@ -1,0 +1,82 @@
+body
+{
+	 background: black;
+	 color: white;
+	 font-family: serif,"Times New Roman", Times ;
+}
+.container
+{
+	padding: 10px;
+	padding-bottom: 25px;
+}
+.navbar-nav
+{
+	background: #383838;
+	margin-left: 35px;
+	padding-bottom: 0px;
+    width: 980px;
+}
+.navbar-nav a 
+{
+	color: white;
+}
+.navbar-nav a:hover 
+{
+	color: black;
+}
+#top-section h4
+{
+	margin-top: 30px;
+}
+#top-section img,#top-section h4
+{
+	margin: 20px;
+}
+.col-md-3
+{
+	padding: 10px;
+}
+.col-md-3 button
+{
+	 margin-top: 35px;
+	 margin-left: 85px;
+	 width: 100px;
+}
+.content
+{
+	display: inline-block;
+	padding: 5px;
+	vertical-align: top;
+	width: 170px;
+}
+.content h4,.col-md-2 a,#last_section h6
+{
+	color: orange;
+}
+#another_main_section
+{
+	padding: 15px;
+	margin-bottom: 10px;
+}
+
+#main_image_section  img
+{
+	 margin-left: 50px;	
+} 
+#main_image_section img,.navbar-nav
+{
+	width: 1000px;
+} 
+#sec_section .col-md-3
+{
+	margin-left: 25px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	width: 250px;
+}
+#project_link a
+{
+	font-size: 15px;
+	margin-top: 10px;
+}
+ 
